@@ -1,0 +1,13 @@
+Rows: 3043 | Columns: 8
+
+Column types:
+object_id               object
+Z                      float64
+Z_err                  float64
+EBV                    float64
+SpecType                object
+English Translation     object
+split                   object
+target                   int64
+
+Missingness saved to: eda_outputs\train_missing.csv

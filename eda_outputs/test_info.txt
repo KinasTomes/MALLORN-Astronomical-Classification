@@ -1,0 +1,12 @@
+Rows: 7135 | Columns: 7
+
+Column types:
+object_id               object
+Z                      float64
+Z_err                  float64
+EBV                    float64
+SpecType               float64
+English Translation     object
+split                   object
+
+Missingness saved to: eda_outputs\test_missing.csv
